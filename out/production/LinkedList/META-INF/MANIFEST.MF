@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: IntroLinkedList.Main
+Class-Path: C:\Users\amr-e\Desktop\New folder (9)\LinkedList\PolynomialS
+ olver
+
